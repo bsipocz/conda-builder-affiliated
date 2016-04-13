@@ -173,3 +173,8 @@
 - name: omnifit
   version: '0.2.1'
   astropy_helpers: true
+
+- name: halotools
+  version: '0.1'
+  astropy_helpers: true
+  python: '>2.6,<3'
