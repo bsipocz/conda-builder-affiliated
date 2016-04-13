@@ -117,7 +117,7 @@
 
 # asdf has a recipe template
 - name: asdf
-  version: 1.0.1
+  version: 1.1.0
   astropy_helpers: true
   numpy_compiled_extensions: false
 
